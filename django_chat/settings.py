@@ -25,7 +25,7 @@ SECRET_KEY = 'ybhgouoq8jtt16wan&3-%w1h)s_kp92c%m5ay1i2)j!8y-kv-k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['channels-test.com']
 
 
 # Application definition
